@@ -15,3 +15,4 @@ Caso de Uso / Atividade / Classes / Sequência
 
 ## Observações
 (Opcional)
+<img width="374" height="318" alt="image" src="https://github.com/user-attachments/assets/90a63fb9-58b6-4364-91ac-235906ad3ef5" />
