@@ -21,8 +21,4 @@ Relates to: #YY
 
 ## 📸 Evidências (print / logs)
 (Se houver)
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-
+<img width="492" height="388" alt="image" src="https://github.com/user-attachments/assets/11468212-7f3d-45e9-80bd-f399c5eb49a3" />
