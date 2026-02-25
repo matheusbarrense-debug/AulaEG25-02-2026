@@ -21,3 +21,8 @@ Relates to: #YY
 
 ## 📸 Evidências (print / logs)
 (Se houver)
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
