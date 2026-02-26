@@ -16,3 +16,4 @@ Caso de Uso / Atividade / Classes / Sequência
 ## Observações
 (Opcional)
 <img width="374" height="318" alt="image" src="https://github.com/user-attachments/assets/90a63fb9-58b6-4364-91ac-235906ad3ef5" />
+<img width="146" height="168" alt="image" src="https://github.com/user-attachments/assets/a1f21a3c-6481-4344-a6e1-bd632fe179d4" />
